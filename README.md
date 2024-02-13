@@ -1,6 +1,7 @@
-# Sanity Clean Content Studio
+# Sanity
 
 ## Youtube Tutorial: https://youtu.be/Lydgf-Hvla4?si=dqkp8PpsSM3OXAsn
+
 
 Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
 
